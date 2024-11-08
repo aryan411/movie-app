@@ -1,0 +1,12 @@
+[submodule "projects/auth-guards"]
+	path = projects/auth-guards
+	url = https://github.com/aryan411/auth-guard.git
+[submodule "projects/auth-mf"]
+	path = projects/auth-mf
+	url = https://github.com/aryan411/auth-mf.git
+[submodule "projects/movies-mf"]
+	path = projects/movies-mf
+	url = https://github.com/aryan411/movie-mf.git
+[submodule "projects/shell"]
+	path = projects/shell
+	url = https://github.com/aryan411/shell.git
